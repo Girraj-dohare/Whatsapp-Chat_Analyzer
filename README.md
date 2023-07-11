@@ -3,6 +3,8 @@
 
 WhatsApp Chat Analyzer is a Python-based application that allows you to analyze and visualize WhatsApp chat data. With this tool, you can gain insights into various aspects of your WhatsApp conversations, including message statistics, timelines, activity maps, word clouds, and more.
 
+Link : https://whatsappchatanalysis.streamlit.app/
+
 ## Features
 
 - **Statistics**: Get an overview of the total number of messages, words, media shared, and links shared in the chat.
